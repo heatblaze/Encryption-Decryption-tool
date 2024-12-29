@@ -11,6 +11,10 @@ A simple GUI application for text encryption and decryption using the Fernet sym
 
 ---
 
+## Technology Used
+- **Programming Language:** Python
+- **GUI Framework:** Tkinter
+- **Text Encryption/Decryption:** cryptography library(Fernet)
 ## Prerequisites
 - Python 3.7 or higher
 - Required Python libraries: tkinter, cryptography
