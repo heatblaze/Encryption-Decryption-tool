@@ -1,0 +1,5 @@
+encryption-app/
+│
+├── main.py              # The main script for encryption/decryption GUI
+├── README.md           # Project description and instructions
+└── requirements.txt    # Required Python dependencies
